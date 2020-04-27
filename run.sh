@@ -81,7 +81,7 @@ case $opt in
         echo -e "${white}Pilihan anda tidak ada"
         sleep 1
         clear
-        bash brute.sh
+        bash run.sh
 esac
 
 #start_brute
